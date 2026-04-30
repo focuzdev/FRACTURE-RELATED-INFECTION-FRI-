@@ -85,19 +85,24 @@ This project presents a comprehensive **10-year retrospective analysis** of Frac
 FRI-Analysis/
 │
 ├── data/
-│ └── latest data.xlsx # Raw dataset
+│   └── latest data.xlsx
 │
 ├── notebooks/
-│ └── fri_analysis.ipynb # Main analysis notebook
+│   └── fri_analysis.ipynb
 │
 ├── output/
-│ ├── Figure_1_Demographics.png
-│ ├── Figure_2_Temporal_Trends.png
-│ ├── Figure_3_Risk_Factors.png
-│ ├── Figure_4_Microbial_Distribution.png
-│ ├── Figure_5_Treatment_Patterns.png
-│ └── Figure_6_Treatment_Trends.png
+│   ├── Figure_1_Demographics.png
+│   ├── Figure_2_Temporal_Trends.png
+│   ├── Figure_3_Risk_Factors.png
+│   ├── Figure_4_Microbial_Distribution.png
+│   ├── Figure_5_Treatment_Patterns.png
+│   └── Figure_6_Treatment_Trends.png
 │
-├── README.md # This file
-└── requirements.txt # Dependencies
+├── README.md
+└── requirements.txt
 
+
+
+## Confidentiality Notice
+
+**This analysis was performed on a confidential clinical dataset**
